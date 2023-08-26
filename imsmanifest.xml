@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_5kaADqkMAZx" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                        http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>CAM 1.3</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="money_ORG">
+    <organization identifier="money_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>money</title>
+      <item identifier="money_SCO" identifierref="__5kaADqkMAZx_RES" isvisible="true">
+        <title>money</title>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+        <imsss:deliveryControls tracked="true" completionSetByContent="false" objectiveSetByContent="false" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5kaADqkMAZx_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/60vvSMEZEzv.png" />
+      <file href="mobile/5tgGT8woSLr.png" />
+      <file href="mobile/5VqBZvEKnCA.png" />
+      <file href="mobile/6PwTCl2N7HO.png" />
+      <file href="mobile/5mptLZirUQl.png" />
+      <file href="mobile/5q3MtJ36WEG.png" />
+      <file href="mobile/5VBeqdyCXQG.png" />
+      <file href="mobile/6csPs0g5qZf.png" />
+      <file href="mobile/5swcqcNVyg6.png" />
+      <file href="mobile/5uyWseGpywy.png" />
+      <file href="mobile/6nGWrMW6fLI.png" />
+      <file href="mobile/6DvoBk3GTaX.png" />
+      <file href="mobile/6cuwGGKSQp4.png" />
+      <file href="mobile/6oe3VO7sUFw.png" />
+      <file href="mobile/6JCGT6drKkI.jpg" />
+      <file href="mobile/6bLqGWbkbfv.png" />
+      <file href="mobile/5dCn93bEOJ4.png" />
+      <file href="mobile/5rf3HRR6Oht.png" />
+      <file href="mobile/5WpFTcZ1NhX.png" />
+      <file href="mobile/6UWuf5romo4.png" />
+      <file href="mobile/6eJVQHZK7An.jpg" />
+      <file href="mobile/6MrBD15ClxH.png" />
+      <file href="mobile/6jjuHs3SbHY.jpg" />
+      <file href="mobile/6b6XHbXOj0j.png" />
+      <file href="mobile/6Qn8cYpQ4RI.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5oipEJVMSRc.js" />
+      <file href="html5/data/js/5yBaqMr8BPw.js" />
+      <file href="html5/data/js/68aQ7MyF9My.js" />
+      <file href="html5/data/js/6FHLLAMU1Jf.js" />
+      <file href="html5/data/js/6S9ypDuhdh8.js" />
+      <file href="html5/data/js/6ZXkNZ33VjV.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
